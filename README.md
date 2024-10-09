@@ -1,4 +1,4 @@
-# Code Sync - A Realtime Code Editor
+# Shere - A Realtime Code Editor
 
 ![screenshot](./screenshots/screenshot.png)
 
