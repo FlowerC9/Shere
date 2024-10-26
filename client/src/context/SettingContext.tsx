@@ -2,7 +2,7 @@ import useLocalStorage from "@/hooks/useLocalStorage"
 import {
     Settings,
     SettingsContext as SettingsContextType,
-} from "@/types/setting"
+} from "@/types/settings"
 import {
     ReactNode,
     createContext,
